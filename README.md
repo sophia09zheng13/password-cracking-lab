@@ -211,3 +211,4 @@ adultery is a [felony offense](https://militarybenefits.info/ucmj-adultery/) for
    (Your python program is probably capable of guessing between 10,000-100,000 passwords per second, which is a lot slower than john the ripper.)
    So using strong passwords that are hard to guess is important.
    The [XKCD comic has a great technique](https://www.explainxkcd.com/wiki/index.php/936:_Password_Strength) for generating easy-to-remember passwords that not even the NSA can crack.
+# password-cracking-lab
